@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PhotoMania/static/css/main.e6c13ad2.css",
+    "main.js": "/PhotoMania/static/js/main.1c3f711c.js",
+    "static/js/787.d3befce1.chunk.js": "/PhotoMania/static/js/787.d3befce1.chunk.js",
+    "index.html": "/PhotoMania/index.html",
+    "main.e6c13ad2.css.map": "/PhotoMania/static/css/main.e6c13ad2.css.map",
+    "main.1c3f711c.js.map": "/PhotoMania/static/js/main.1c3f711c.js.map",
+    "787.d3befce1.chunk.js.map": "/PhotoMania/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c3f711c.js"
+  ]
+}
